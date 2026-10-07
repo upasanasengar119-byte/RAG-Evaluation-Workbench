@@ -1,0 +1,9 @@
+[
+  {"query": "annual leave days", "relevant": ["policy-leave"]},
+  {"query": "refund receipt purchase", "relevant": ["policy-refund"]},
+  {"query": "password reset expire", "relevant": ["policy-password"]},
+  {"query": "expense claims receipt", "relevant": ["policy-expenses"]},
+  {"query": "RAG source citations", "relevant": ["guide-rag"]},
+  {"query": "canary readiness rollback", "relevant": ["guide-deploy"]},
+  {"query": "banana spacecraft", "relevant": []}
+]
